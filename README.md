@@ -1,6 +1,7 @@
 # Amazon India Sales Dashboard
 
 An interactive Excel dashboard analysing **10,000 e-commerce orders** across sales, profit, products, order status, payment methods, fulfilment types, and states in India.
+- <img width="904" height="254" alt="0980" src="https://github.com/user-attachments/assets/7613e1f9-ae19-4852-9143-6a214a7e8df7" />
 
 ## 🎯 Objective
 Turn raw order data into a one-page view that helps answer:
